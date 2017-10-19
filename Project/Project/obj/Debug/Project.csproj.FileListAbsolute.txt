@@ -1,0 +1,11 @@
+\\eastnorfolk.ac.uk\students\home\start2016\50605\visual studio 2015\Projects\Project\Project\bin\Debug\Project.exe.config
+\\eastnorfolk.ac.uk\students\home\start2016\50605\visual studio 2015\Projects\Project\Project\bin\Debug\Project.exe
+\\eastnorfolk.ac.uk\students\home\start2016\50605\visual studio 2015\Projects\Project\Project\bin\Debug\Project.pdb
+\\eastnorfolk.ac.uk\students\home\start2016\50605\visual studio 2015\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+\\eastnorfolk.ac.uk\students\home\start2016\50605\visual studio 2015\Projects\Project\Project\obj\Debug\Project.Form1.resources
+\\eastnorfolk.ac.uk\students\home\start2016\50605\visual studio 2015\Projects\Project\Project\obj\Debug\Project.Properties.Resources.resources
+\\eastnorfolk.ac.uk\students\home\start2016\50605\visual studio 2015\Projects\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+\\eastnorfolk.ac.uk\students\home\start2016\50605\visual studio 2015\Projects\Project\Project\obj\Debug\Project.exe
+\\eastnorfolk.ac.uk\students\home\start2016\50605\visual studio 2015\Projects\Project\Project\obj\Debug\Project.pdb
+\\eastnorfolk.ac.uk\students\home\start2016\50605\visual studio 2015\Projects\Project\Project\bin\Debug\Google.Authenticator.dll
+\\eastnorfolk.ac.uk\students\home\start2016\50605\visual studio 2015\Projects\Project\Project\obj\Debug\Project.Login.resources
